@@ -18,6 +18,7 @@ The boar is tasked to:
 
 3) Once it reaches the base or when the base is moved, begin to wander again
 
-![](/assets/boarai.mov)
-
+<video width="320" height="240" controls>
+  <source src="boarai.mov" type="video/mp4">
+</video>
 My current task is working on refactoring the code base and remove older depricated files since we are currently transitioning to a different methodology to build our code.
