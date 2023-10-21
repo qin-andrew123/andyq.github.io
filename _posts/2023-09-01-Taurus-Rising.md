@@ -12,4 +12,8 @@ I am currently working on Taurus Rising! A game centered on making choices of sa
 
 <video controls src='https://github.com/qin-andrew123/qin-andrew123.github.io/assets/71657626/098eaf30-5e2d-4ff4-ad35-9a5617bdf757' width=720/>
 
+<video controls>
+    <source src="/assets/HarvestVideo.mov" type="video/quicktime">
+</video>
+
 - Current steps I am taking on this project is to combine this mechanic with breakable blocks that one of my fellow engineers has designed so that each asteroid will break into smaller blocks and will be harvested then.
