@@ -2,7 +2,7 @@
 layout: post
 title:  "Baseball Rising"
 summary: "Gameplay Programmer"
-date:   2022-10-07 15:39:40
+date:   2022-10-07 12:00:00
 preview: /assets/BaseballPreview.png
 ---
 
