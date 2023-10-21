@@ -18,6 +18,6 @@ The boar is tasked to:
 
 3) Once it reaches the base or when the base is moved, begin to wander again
 
-![Video 1](/assets/boarai.mov)
+![](/assets/boarai.mov)
 
 My current task is working on refactoring the code base and remove older depricated files since we are currently transitioning to a different methodology to build our code.
