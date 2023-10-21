@@ -22,7 +22,7 @@ This Portal remake was the final project in his curriculum. Unfortunately, the s
 
 This project taught me a lot of different topics such as expanding on AI state machines, utilizing linear algebra to implement teleportation and portal views as shown in the clip below
 
-![Video 1](/assets/PortalRemakeVideo.mp4)
+![Video 1](/assets/PortalRemakeVideo.mov)
 
 Furthermore, I learned how to implement UI such as damage indicators and game over, as well as flavor text such as the subtitles from GLaDOS.
 
