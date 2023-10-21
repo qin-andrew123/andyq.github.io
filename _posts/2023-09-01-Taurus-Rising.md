@@ -10,6 +10,6 @@ I am currently working on Taurus Rising! A game centered on making choices of sa
 
 - I am currently working on implementing a "Harvesting" mechanic in the game which absorbs the asteroids in the game that the player is supposed to harvest and gives them an amount of points.
 
-![Video 1](/assets/HarvestVideo.mov)
+![](/assets/HarvestVideo.mov)
 
 - Current steps I am taking on this project is to combine this mechanic with breakable blocks that one of my fellow engineers has designed so that each asteroid will break into smaller blocks and will be harvested then.
