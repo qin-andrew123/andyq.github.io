@@ -11,8 +11,11 @@ I am currently working on Baseball Rising as a gameplay engineer! In this game, 
 The first task I worked on for Baseball Rising is developing an AI behavior tree for the boar enemy.
 
 The boar is tasked to: 
+
 1) Randomly wander across the playing area
+  
 2) When it encounters a base run towards the base
+
 3) Once it reaches the base or when the base is moved, begin to wander again
 
 ![Video 1](/assets/boarai.mov)
