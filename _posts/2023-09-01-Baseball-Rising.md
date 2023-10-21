@@ -18,7 +18,6 @@ The boar is tasked to:
 
 3) Once it reaches the base or when the base is moved, begin to wander again
 
-
-<video src='https://github.com/qin-andrew123/qin-andrew123.github.io/assets/71657626/72c818d3-aa46-43b8-b8f1-a99d36eda9d8' width=720/>
+<video src='https://github.com/qin-andrew123/qin-andrew123.github.io/assets/71657626/a5f75fdd-a0b3-4ead-ba18-07518cdb912a' width=720/>
 
 My current task is working on refactoring the code base and remove older depricated files since we are currently transitioning to a different methodology to build our code.
