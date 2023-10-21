@@ -18,6 +18,8 @@ The boar is tasked to:
 
 3) Once it reaches the base or when the base is moved, begin to wander again
 
-<video controls src='https://github.com/qin-andrew123/qin-andrew123.github.io/assets/71657626/c5670327-0a8b-4a0c-99d0-37c1b3e9d2f2' width=720/>
-
+<video controls>
+    <source src="/assets/boarai.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+</video>
 My current task is working on refactoring the code base and remove older depricated files since we are currently transitioning to a different methodology to build our code.
