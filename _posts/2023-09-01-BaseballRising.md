@@ -14,6 +14,7 @@ The boar is tasked to:
 1) Randomly wander across the playing area
 2) When it encounters a base run towards the base
 3) Once it reaches the base or when the base is moved, begin to wander again
-![Video 1](/assets/boarai.mp4)
+
+![Video 1](/assets/boarai.mov)
 
 My current task is working on refactoring the code base and remove older depricated files since we are currently transitioning to a different methodology to build our code.
