@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "Project Kronos"
-summary: "Student"
-date:   2024-05-04 12:00:00
-preview: /assets/ICON.png
+title:  "The Guardian"
+summary: "Volunteer Gameplay Programmer"
+date:   2024-09-09 12:00:00
+preview: /assets/TheGuardian/TheGuardian.png
 ---
 
-![Picture 1](/assets/ICON.png)
+The Guardian is the capstone game project of one of the MS Game Development students which is about a large guardian being and a boy who must traverse the world and along the way develop a strong bond of family.
 
-Project Kronos is a small student game that me and a partner worked on over a semester. 
-
-I primarily worked on developing the enemy AI across the entire game as well as working on level designs and player UI.
-
-The final deliverable as well as trailer for the game can be found here:
-https://qiwuf.itch.io/project-kronos
+As a volunteer, I was given various tasks across the game ranging from UI assignments to tweaking UI and bug fixes.
