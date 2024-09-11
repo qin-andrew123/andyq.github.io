@@ -10,7 +10,7 @@ Potion Problems is the capstone project that I have decided to work on for the F
 
 We started work during the summer of 2024 where I was assigned to designing how to implement game sessions. We decided that we should host through Steam so that we could target as many players as possible as well as deploying to both Mac and Windows. Our end product in the Summer was a prototype that could join player hosted sessions as well as type to each other through text chat.
 
-<video controls>
+<video width="320" height="240" controls>
     <source src="\assets\PotionProblems\SummerPrototype.mp4" type="video/quicktime">
     Your browser does not support the video tag.
 </video>
