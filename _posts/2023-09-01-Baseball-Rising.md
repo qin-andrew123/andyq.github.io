@@ -3,7 +3,7 @@ layout: post
 title:  "Baseball Rising"
 summary: "Gameplay Programmer"
 date:   2023-09-01 12:00:00
-preview: /assets/BaseballPreview.png
+preview: /assets/BaseballRising/BaseballPreview.png
 ---
 
 I was working on Baseball Rising as a gameplay engineer for the fall of 2023! In this game, you and your fellow group of cavemen and women must work together to create the world's first game of baseball while overcoming all the obstacles that come with living in the neolithic era!
@@ -21,7 +21,7 @@ The boar is tasked to:
 4) If it encounters a bee, run away from the bee
 
 <video controls>
-    <source src="/assets/boarai.mov" type="video/quicktime">
+    <source src="/assets/BaseballRising/boarai.mov" type="video/quicktime">
     Your browser does not support the video tag.
 </video>
 

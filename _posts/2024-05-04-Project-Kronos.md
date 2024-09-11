@@ -3,7 +3,7 @@ layout: post
 title:  "Project Kronos"
 summary: "Student"
 date:   2024-05-04 12:00:00
-preview: /assets/ICON.png
+preview: /assets/ProjectKronos/ICON.png
 ---
 
 ![Picture 1](/assets/ICON.png)
